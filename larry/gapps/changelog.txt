@@ -1,0 +1,7 @@
+AxionOS 2.6
+Maintainer : Ansh Agnihotri
+Build date: 09/01/2026
+- Initial Build for Larry
+- Add OTA Support
+- Add OPLUS Camera
+- Add Lunaris Sony Dolby Atmos
